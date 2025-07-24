@@ -3,7 +3,7 @@
 - 🔭 I’m a Grade 10 currently attending Milliken Mills High School
 - 🌱 I’m currently learning Java & Python
 - 👯 I’m looking to collaborate on anything fun so feel free to reach out to me!
-- 👜 Interning at Shopify Summer 2025!
+- 👜 Passion for working on Minecraft mods!
 - 📫 Reach me at crackle2k on Discord!
 
 <h3 align="left">Languages and Tools:</h3>
