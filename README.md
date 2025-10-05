@@ -13,5 +13,5 @@
 
 “You have to be able to endure the pain of discipline if you want to be successful.”
 
-![Dinesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=crackle2k&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight)
+![Dinesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=crackle2k&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
